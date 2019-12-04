@@ -15,3 +15,5 @@ OPEN_PORT=443
 ```
 TIMEOUT=60
 ```
+
+Each time your ip is rotated it will be noted in `/tmp/ip_rotate`
