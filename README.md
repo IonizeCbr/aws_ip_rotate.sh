@@ -17,3 +17,4 @@ TIMEOUT=60
 ```
 
 Each time your ip is rotated it will be noted in `/tmp/ip_rotate`
+This script has been specifically tailored to `--region ap-southeast-2` Asia Pacific (Sydney) which can be changed within script.
